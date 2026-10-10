@@ -1033,7 +1033,7 @@ Open
 	
 Area
 	
-10 checked in (11 max)
+1 checked in (11 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1044,7 +1044,7 @@ Open
 	
 Area
 	
-4 checked in (29 max)
+2 checked in (29 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1055,7 +1055,7 @@ Open
 	
 Area
 	
-4 checked in (11 max)
+2 checked in (11 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1110,7 +1110,7 @@ Open
 	
 Area
 	
-9 checked in (41 max)
+5 checked in (41 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1121,7 +1121,7 @@ Open
 	
 Area
 	
-4 checked in (21 max)
+1 checked in (21 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1132,7 +1132,7 @@ Open
 	
 Area
 	
-14 checked in (47 max)
+13 checked in (47 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1154,7 +1154,7 @@ Open
 	
 Area
 	
-6 checked in (20 max)
+2 checked in (20 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1231,7 +1231,7 @@ Open
 	
 Area
 	
-12 checked in (45 max)
+10 checked in (45 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1264,7 +1264,7 @@ Open
 	
 Area
 	
-3 checked in (29 max)
+1 checked in (29 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1286,7 +1286,7 @@ Open
 	
 Area
 	
-3 checked in (14 max)
+2 checked in (14 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1319,7 +1319,7 @@ Open
 	
 Area
 	
-7 checked in (10 max)
+5 checked in (10 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1341,7 +1341,7 @@ Open
 	
 Area
 	
-14 checked in (14 max)
+7 checked in (14 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1352,7 +1352,7 @@ Open
 	
 Area
 	
-9 checked in (44 max)
+8 checked in (44 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1374,7 +1374,7 @@ Open
 	
 Area
 	
-4 checked in (26 max)
+3 checked in (26 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1385,7 +1385,7 @@ Open
 	
 Area
 	
-3 checked in (31 max)
+2 checked in (31 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1429,7 +1429,7 @@ Open
 	
 Area
 	
-3 checked in (9 max)
+2 checked in (9 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -4102,7 +4102,7 @@ Open
 	
 Area
 	
-3 checked in
+1 checked in
 
 
 Fishing Parent
@@ -4993,7 +4993,7 @@ Open
 	
 Area
 	
-1 checked in (2 max)
+0 checked in (2 max)
 
 
 Handicap Area Parent
