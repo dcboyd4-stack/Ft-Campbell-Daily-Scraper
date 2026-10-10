@@ -1,0 +1,7 @@
+/home/runner/work/Ft-Campbell-Daily-Scraper/Ft-Campbell-Daily-Scraper/landcover.py:95: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  arr = src.read(1)
+map pixel ≈ 18.0 m
+102 coverages offered; land-cover candidates (oldest→newest): ['mrlc_download__NLCD_2013_Land_Cover_L48', 'mrlc_download__NLCD_2016_Land_Cover_L48', 'mrlc_download__NLCD_2019_Land_Cover_L48', 'mrlc_download__NLCD_2021_Land_Cover_L48', 'mrlc_download__Annual_NLCD_Smy_LndCov_ChgCnt_1985_2023_CU_C1V0', 'mrlc_download__Annual_NLCD_Smy_LndCov_ChgIdx_1985_2023_CU_C1V0']
+NLCD tile (937, 1284) in EPSG:5070, resolution (30.0, 30.0)
+Wrote 57 zones from mrlc_download__Annual_NLCD_Smy_LndCov_ChgIdx_1985_2023_CU_C1V0
