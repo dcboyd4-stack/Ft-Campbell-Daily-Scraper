@@ -6,6 +6,9 @@ on:
     # both daylight (CDT) and standard (CST) time; the script keeps whichever lands on 7 or 16 local.
     - cron: "45 12,13,21,22 * 9-12,1 *"
   workflow_dispatch: {}   # "Run workflow" button for a manual test
+  push:                   # also test whenever the scraper itself changes
+    branches: [main]
+    paths: ["scrape.py", ".github/workflows/snapshot.yml"]
 
 permissions:
   contents: write
