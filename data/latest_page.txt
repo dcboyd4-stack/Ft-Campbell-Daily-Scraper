@@ -1,0 +1,8790 @@
+FORT CAMPBELL
+
+
+
+NOTICE: AREAS DISPLAYING RED ON THE INTERACTIVE MAP OR AREA STATUS LIST ARE CLOSED DUE TO SCHEDULING CONFLICTS WITH MILITARY TRAINING OPERATIONS.
+
+This policy is set by the installation for the safety of both military and recreational activities.
+
+Saturday, October 10
+
+
+AREA STATUS FOR TODAY 10-10-26
+ PRINT
+Date
+Today 10-10-26
+Tomorrow 10-11-26
+Monday 10-12-26
+Tuesday 10-13-26
+Wednesday 10-14-26
+Thursday 10-15-26
+Friday 10-16-26
+Status
+Open
+Closed
+Category
+Area
+Parent Area
+Cantonment Area Parent
+Deer Hunting - Archery Only Parent
+Deer Hunting Parent
+Doe Only Hunting Parent
+Enviromental Recreation Parent
+Firewood Collection Parent
+Fishing Parent
+Game Scouting Parent
+Handicap Area Parent
+Predator Hunting Parent
+Quail Hunting Parent
+Raccoon Hunting Parent
+Small Game Hunting Parent
+Turkey Hunting Parent
+Waterfowl Hunting Parent
+Youth Hunt Parent
+Area
+A11
+A15
+A14
+A16
+A4
+ADMIN TESTING ONLY
+C1
+C1
+C10
+C11
+C2
+C2
+C3
+C3
+C4
+C5
+C6
+C7
+C7
+C8
+C9
+Cantonment Area
+Clarksville Base
+Fletchers Fork Creek
+Fletchers Fork Creek
+Lake Kyle
+Lake Kyle
+Lake Kyle
+Little West Fork Creek
+Little West Fork Creek
+Piney Fork Creek
+Piney Fork Creek
+ROV Course
+Saline Creek
+Saline Creek
+TA 00A
+TA 00A
+TA 00A
+TA 00A (ARCHERY)
+TA 00A - ARCHERY ONLY
+TA 00A - Archery Only
+TA 00B
+TA 00B
+TA 00B
+TA 00B (ARCHERY)
+TA 00B - ARCHERY ONLY
+TA 00B - ARCHERY ONLY
+TA 00B - Archery Only
+TA 00C
+TA 00C
+TA 00C
+TA 00C (ARCHERY)
+TA 00C - ARCHERY ONLY
+TA 00C - ARCHERY ONLY
+TA 00C - Archery Only
+TA 00D
+TA 00D
+TA 00D
+TA 00D
+TA 00D (ARCHERY)
+TA 00D - ARCHERY ONLY
+TA 00HC
+TA 00HC
+TA 00HC
+TA 00HC
+TA 01
+TA 01
+TA 01
+TA 01
+TA 01
+TA 01
+TA 01
+TA 01
+TA 01
+TA 01
+TA 01
+TA 01
+TA 01 (ARCHERY)
+TA 01 - ARCHERY ONLY
+TA 02
+TA 02
+TA 02
+TA 02
+TA 02
+TA 02
+TA 02
+TA 02
+TA 02
+TA 02
+TA 02
+TA 02
+TA 02 (ARCHERY)
+TA 03
+TA 03
+TA 03
+TA 03
+TA 03
+TA 03
+TA 03
+TA 03
+TA 03
+TA 03
+TA 03
+TA 03
+TA 03 (ARCHERY)
+TA 04
+TA 04
+TA 04
+TA 04
+TA 04
+TA 04
+TA 04
+TA 04
+TA 04
+TA 04
+TA 04
+TA 04 (ARCHERY)
+TA 05
+TA 05
+TA 05
+TA 05
+TA 05
+TA 05
+TA 05
+TA 05
+TA 05
+TA 05
+TA 05
+TA 05 (ARCHERY)
+TA 06
+TA 06
+TA 06
+TA 06
+TA 06
+TA 06
+TA 06
+TA 06
+TA 06
+TA 06
+TA 06
+TA 06
+TA 06 (ARCHERY)
+TA 07
+TA 07
+TA 07
+TA 07
+TA 07
+TA 07
+TA 07
+TA 07
+TA 07
+TA 07
+TA 07 (ARCHERY)
+TA 07 - ARCHERY ONLY
+TA 08
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A
+TA 08A (ARCHERY)
+TA 08AHC
+TA 08B
+TA 08B
+TA 08B
+TA 08B
+TA 08B
+TA 08B
+TA 08B
+TA 08B
+TA 08B
+TA 08B
+TA 08B (ARCHERY)
+TA 08B - ARCHERY ONLY
+TA 09A
+TA 09A
+TA 09A
+TA 09A
+TA 09A
+TA 09A
+TA 09A
+TA 09A
+TA 09A
+TA 09A
+TA 09A
+TA 09A
+TA 09A (ARCHERY)
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B
+TA 09B (ARCHERY)
+TA 10
+TA 10
+TA 10
+TA 10
+TA 10
+TA 10
+TA 10
+TA 10
+TA 10
+TA 10
+TA 10
+TA 10 (ARCHERY)
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11
+TA 11 (ARCHERY)
+TA 12
+TA 12
+TA 12
+TA 12
+TA 12
+TA 12
+TA 12
+TA 12
+TA 12
+TA 12HC
+TA 13
+TA 13
+TA 13
+TA 13
+TA 13
+TA 13
+TA 13
+TA 13
+TA 13
+TA 13
+TA 13
+TA 13 (ARCHERY)
+TA 14
+TA 14
+TA 14
+TA 14
+TA 14
+TA 14
+TA 14
+TA 14
+TA 14
+TA 14
+TA 14
+TA 14 (ARCHERY)
+TA 14A
+TA 14A
+TA 14A
+TA 14A
+TA 14A
+TA 14A
+TA 14A
+TA 14A
+TA 14A
+TA 14A (ARCHERY)
+TA 14A - ARCHERY ONLY
+TA 14HC
+TA 15
+TA 15
+TA 15
+TA 15
+TA 15
+TA 15
+TA 15
+TA 15
+TA 15
+TA 15
+TA 15 (ARCHERY)
+TA 15 - ARCHERY ONLY
+TA 16
+TA 16
+TA 16
+TA 16
+TA 16
+TA 16
+TA 16
+TA 16
+TA 16
+TA 16
+TA 16
+TA 16 (ARCHERY)
+TA 17
+TA 17
+TA 17
+TA 17
+TA 17
+TA 17
+TA 17
+TA 17
+TA 17
+TA 17
+TA 17
+TA 17 (ARCHERY)
+TA 18
+TA 18
+TA 18
+TA 18
+TA 18
+TA 18
+TA 18
+TA 18
+TA 18
+TA 18
+TA 18 (ARCHERY)
+TA 18 - ARCHERY ONLY
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19
+TA 19 (ARCHERY)
+TA 20
+TA 20
+TA 20
+TA 20
+TA 20
+TA 20
+TA 20
+TA 20
+TA 20
+TA 20
+TA 20
+TA 20 (ARCHERY)
+TA 21
+TA 21
+TA 21
+TA 21
+TA 21
+TA 21
+TA 21
+TA 21
+TA 21
+TA 21
+TA 21
+TA 21 (ARCHERY)
+TA 22
+TA 22
+TA 22
+TA 22
+TA 22
+TA 22
+TA 22
+TA 22
+TA 22
+TA 22
+TA 22
+TA 22 (ARCHERY)
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23
+TA 23 (ARCHERY)
+TA 24
+TA 24
+TA 24
+TA 24
+TA 24
+TA 24
+TA 24
+TA 24
+TA 24
+TA 24
+TA 24
+TA 24 (ARCHERY)
+TA 25
+TA 25
+TA 25
+TA 25
+TA 25
+TA 25
+TA 25
+TA 25
+TA 25
+TA 25
+TA 25
+TA 25 (ARCHERY)
+TA 26
+TA 26
+TA 26
+TA 26
+TA 26
+TA 26
+TA 26
+TA 26
+TA 26
+TA 26
+TA 26
+TA 26 (ARCHERY)
+TA 27
+TA 27
+TA 27
+TA 27
+TA 27
+TA 27
+TA 27
+TA 27
+TA 27
+TA 27
+TA 27
+TA 27 (ARCHERY)
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28
+TA 28 (ARCHERY)
+TA 30
+TA 30
+TA 30
+TA 30
+TA 30
+TA 30
+TA 30
+TA 30
+TA 30
+TA 30
+TA 30
+TA 30
+TA 30 (ARCHERY)
+TA 31
+TA 31
+TA 31
+TA 31
+TA 31
+TA 31
+TA 31
+TA 31
+TA 31
+TA 31
+TA 31
+TA 31 (ARCHERY)
+TA 31 - LAKE KYLE
+TA 31HC
+TA 32
+TA 32
+TA 32
+TA 32
+TA 32
+TA 32
+TA 32
+TA 32
+TA 32
+TA 32
+TA 32
+TA 32
+TA 32 (ARCHERY)
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33
+TA 33 (ARCHERY)
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34
+TA 34 (ARCHERY)
+TA 35
+TA 35
+TA 35
+TA 35
+TA 35
+TA 35
+TA 35
+TA 35
+TA 35
+TA 35
+TA 35
+TA 35
+TA 35 (ARCHERY)
+TA 40
+TA 40
+TA 40
+TA 40
+TA 40
+TA 40
+TA 40
+TA 40
+TA 40
+TA 40
+TA 40
+TA 40
+TA 40 (ARCHERY)
+TA 41
+TA 41
+TA 41
+TA 41
+TA 41
+TA 41
+TA 41
+TA 41
+TA 41
+TA 41
+TA 41
+TA 41
+TA 41 (ARCHERY)
+TA 42A
+TA 42A
+TA 42A
+TA 42A
+TA 42A
+TA 42A
+TA 42A
+TA 42A
+TA 42A
+TA 42A - ARCHERY ONLY
+TA 42A (ARCHERY)
+TA 42B
+TA 42B
+TA 42B
+TA 42B
+TA 42B
+TA 42B
+TA 42B
+TA 42B
+TA 43A
+TA 43A
+TA 43A
+TA 43A
+TA 43A
+TA 43A
+TA 43A
+TA 43A
+TA 43A
+TA 43A
+TA 43A
+TA 43A (ARCHERY)
+TA 43B
+TA 43B
+TA 43B
+TA 43B
+TA 43B
+TA 43B
+TA 43B
+TA 43B
+TA 43B
+TA 43B
+TA 43B (ARCHERY)
+TA 43B - ARCHERY ONLY
+TA 44A
+TA 44A
+TA 44A
+TA 44A
+TA 44A
+TA 44A
+TA 44A
+TA 44A
+TA 44A
+TA 44A
+TA 44A
+TA 44A (ARCHERY)
+TA 44B
+TA 44B
+TA 44B
+TA 44B
+TA 44B
+TA 44B
+TA 44B
+TA 44B
+TA 44B
+TA 44B
+TA 44B
+TA 44B
+TA 44B (ARCHERY)
+TA 46
+TA 46
+TA 46
+TA 46
+TA 46
+TA 46
+TA 46
+TA 46
+TA 46
+TA 46
+TA 46
+TA 46 (ARCHERY)
+TA 47
+TA 47
+TA 47
+TA 47
+TA 47
+TA 47
+TA 47
+TA 47
+TA 47
+TA 47
+TA 47
+TA 47 (ARCHERY)
+TA 48
+TA 48
+TA 48
+TA 48
+TA 48
+TA 48
+TA 48
+TA 48
+TA 48
+TA 48
+TA 48
+TA 48 (ARCHERY)
+TA 49
+TA 49
+TA 49
+TA 49
+TA 49
+TA 49
+TA 49
+TA 49
+TA 49
+TA 49
+TA 49
+TA 49 (ARCHERY)
+TA 50
+TA 50
+TA 50
+TA 50
+TA 50
+TA 50
+TA 50
+TA 50
+TA 50
+TA 50
+TA 50 (ARCHERY)
+TA 51
+TA 51
+TA 51
+TA 51
+TA 51
+TA 51
+TA 51
+TA 51
+TA 51
+TA 51
+TA 51
+TA 51 (ARCHERY)
+TA 52
+TA 52
+TA 52
+TA 52
+TA 52
+TA 52
+TA 52
+TA 52
+TA 52
+TA 52
+TA 52
+TA 52 (ARCHERY)
+TA AB03
+TA AB03
+TA AB03
+TA AB03
+TA AB03
+TA AB03
+TA AB03
+TA AB03 (ARCHERY ONLY)
+TA AB03 (ARCHERY)
+TA AB03 (Archery Only)
+TA AB03 (Archery)
+TA AB03 - ARCHERY ONLY
+TA35
+TA44B
+Parent Area
+	
+Area
+	
+Status
+	
+Category
+	
+Occupancy
+
+
+1 - 727 displayed , 727 in total
+
+
+Cantonment Area Parent
+	
+A11
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Cantonment Area Parent
+	
+A15
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Cantonment Area Parent
+	
+A14
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Cantonment Area Parent
+	
+A16
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Cantonment Area Parent
+	
+A4
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Cantonment Area Parent
+	
+C1
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Cantonment Area Parent
+	
+C10
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Cantonment Area Parent
+	
+C11
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Cantonment Area Parent
+	
+C2
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Cantonment Area Parent
+	
+C3
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Cantonment Area Parent
+	
+C4
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Cantonment Area Parent
+	
+C5
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Cantonment Area Parent
+	
+C6
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Cantonment Area Parent
+	
+C7
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Cantonment Area Parent
+	
+C8
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Cantonment Area Parent
+	
+C9
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 00A (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 00B (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 00C (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 00D (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 01 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (15 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 02 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (25 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 03 (ARCHERY)
+	
+Open
+	
+Area
+	
+10 checked in (11 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 04 (ARCHERY)
+	
+Open
+	
+Area
+	
+4 checked in (29 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 05 (ARCHERY)
+	
+Open
+	
+Area
+	
+4 checked in (11 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 06 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (17 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 07 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 08A (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 08B (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 09A (ARCHERY)
+	
+Open
+	
+Area
+	
+9 checked in (41 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 09B (ARCHERY)
+	
+Open
+	
+Area
+	
+4 checked in (21 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 10 (ARCHERY)
+	
+Open
+	
+Area
+	
+14 checked in (47 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 11 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (38 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 13 (ARCHERY)
+	
+Open
+	
+Area
+	
+6 checked in (20 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 14 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (6 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 14A (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (12 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 15 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 16 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (11 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 17 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (24 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 18 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (9 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 19 (ARCHERY)
+	
+Open
+	
+Area
+	
+12 checked in (45 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 20 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (53 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 21 (ARCHERY)
+	
+Open
+	
+Area
+	
+0 checked in (54 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 22 (ARCHERY)
+	
+Open
+	
+Area
+	
+3 checked in (29 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 23 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (45 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 24 (ARCHERY)
+	
+Open
+	
+Area
+	
+3 checked in (14 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 25 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (30 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 26 (ARCHERY)
+	
+Open
+	
+Area
+	
+0 checked in (26 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 27 (ARCHERY)
+	
+Open
+	
+Area
+	
+7 checked in (10 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 28 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (12 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 30 (ARCHERY)
+	
+Open
+	
+Area
+	
+14 checked in (14 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 31 (ARCHERY)
+	
+Open
+	
+Area
+	
+9 checked in (44 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 32 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (46 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 33 (ARCHERY)
+	
+Open
+	
+Area
+	
+4 checked in (26 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 34 (ARCHERY)
+	
+Open
+	
+Area
+	
+3 checked in (31 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 35 (ARCHERY)
+	
+Open
+	
+Area
+	
+2 checked in (2 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 40 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 41 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (15 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 42A (ARCHERY)
+	
+Open
+	
+Area
+	
+3 checked in (9 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 43A (ARCHERY)
+	
+Open
+	
+Area
+	
+4 checked in (4 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 43B (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 44A (ARCHERY)
+	
+Open
+	
+Area
+	
+0 checked in (40 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 44B (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (15 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 46 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (21 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 47 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (12 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 48 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (17 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 49 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (46 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 50 (ARCHERY)
+	
+Open
+	
+Area
+	
+1 checked in (44 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 51 (ARCHERY)
+	
+Open
+	
+Area
+	
+0 checked in (23 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA 52 (ARCHERY)
+	
+Open
+	
+Area
+	
+0 checked in (31 max)
+
+
+Deer Hunting - Archery Only Parent
+	
+TA AB03 (ARCHERY)
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Deer Hunting Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in (15 max)
+
+
+Deer Hunting Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in (17 max)
+
+
+Deer Hunting Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Deer Hunting Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in (19 max)
+
+
+Deer Hunting Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Deer Hunting Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in (17 max)
+
+
+Deer Hunting Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Deer Hunting Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Deer Hunting Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Deer Hunting Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in (29 max)
+
+
+Deer Hunting Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in (15 max)
+
+
+Deer Hunting Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in (33 max)
+
+
+Deer Hunting Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (26 max)
+
+
+Deer Hunting Parent
+	
+TA 12
+	
+Closed
+	
+Area
+	
+0 checked in (0 max)
+
+
+Deer Hunting Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in (14 max)
+
+
+Deer Hunting Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in (6 max)
+
+
+Deer Hunting Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Deer Hunting Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Deer Hunting Parent
+	
+TA 17
+	
+Closed
+	
+Area
+	
+0 checked in (17 max)
+
+
+Deer Hunting Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in (9 max)
+
+
+Deer Hunting Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in (31 max)
+
+
+Deer Hunting Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in (37 max)
+
+
+Deer Hunting Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in (38 max)
+
+
+Deer Hunting Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Deer Hunting Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (31 max)
+
+
+Deer Hunting Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Deer Hunting Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in (21 max)
+
+
+Deer Hunting Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in (18 max)
+
+
+Deer Hunting Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Deer Hunting Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in (9 max)
+
+
+Deer Hunting Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Deer Hunting Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in (31 max)
+
+
+Deer Hunting Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (32 max)
+
+
+Deer Hunting Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in (18 max)
+
+
+Deer Hunting Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (21 max)
+
+
+Deer Hunting Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Deer Hunting Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Deer Hunting Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Deer Hunting Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Deer Hunting Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Deer Hunting Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in (28 max)
+
+
+Deer Hunting Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Deer Hunting Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Deer Hunting Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Deer Hunting Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Deer Hunting Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in (32 max)
+
+
+Deer Hunting Parent
+	
+TA 50
+	
+Closed
+	
+Area
+	
+0 checked in (31 max)
+
+
+Deer Hunting Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in (16 max)
+
+
+Deer Hunting Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Deer Hunting Parent
+	
+TA AB03 (Archery)
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Doe Only Hunting Parent
+	
+TA 00A - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Doe Only Hunting Parent
+	
+TA 00B - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Doe Only Hunting Parent
+	
+TA 00C - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Doe Only Hunting Parent
+	
+TA 00D - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Doe Only Hunting Parent
+	
+TA 01 - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (15 max)
+
+
+Doe Only Hunting Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in (17 max)
+
+
+Doe Only Hunting Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Doe Only Hunting Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in (19 max)
+
+
+Doe Only Hunting Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Doe Only Hunting Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in (12 max)
+
+
+Doe Only Hunting Parent
+	
+TA 07 - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Doe Only Hunting Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Doe Only Hunting Parent
+	
+TA 08B - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Doe Only Hunting Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in (29 max)
+
+
+Doe Only Hunting Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in (15 max)
+
+
+Doe Only Hunting Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in (33 max)
+
+
+Doe Only Hunting Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (26 max)
+
+
+Doe Only Hunting Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in (14 max)
+
+
+Doe Only Hunting Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Doe Only Hunting Parent
+	
+TA 14A - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (12 max)
+
+
+Doe Only Hunting Parent
+	
+TA 15 - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Doe Only Hunting Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Doe Only Hunting Parent
+	
+TA 17
+	
+Closed
+	
+Area
+	
+0 checked in (17 max)
+
+
+Doe Only Hunting Parent
+	
+TA 18 - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (9 max)
+
+
+Doe Only Hunting Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in (31 max)
+
+
+Doe Only Hunting Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in (37 max)
+
+
+Doe Only Hunting Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in (38 max)
+
+
+Doe Only Hunting Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Doe Only Hunting Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (31 max)
+
+
+Doe Only Hunting Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Doe Only Hunting Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in (21 max)
+
+
+Doe Only Hunting Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in (18 max)
+
+
+Doe Only Hunting Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Doe Only Hunting Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in (9 max)
+
+
+Doe Only Hunting Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Doe Only Hunting Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in (31 max)
+
+
+Doe Only Hunting Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (32 max)
+
+
+Doe Only Hunting Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in (18 max)
+
+
+Doe Only Hunting Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (21 max)
+
+
+Doe Only Hunting Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Doe Only Hunting Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Doe Only Hunting Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Doe Only Hunting Parent
+	
+TA 42A - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (9 max)
+
+
+Doe Only Hunting Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Doe Only Hunting Parent
+	
+TA 43B - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Doe Only Hunting Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in (28 max)
+
+
+Doe Only Hunting Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Doe Only Hunting Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Doe Only Hunting Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Doe Only Hunting Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Doe Only Hunting Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in (32 max)
+
+
+Doe Only Hunting Parent
+	
+TA 50
+	
+Closed
+	
+Area
+	
+0 checked in (31 max)
+
+
+Doe Only Hunting Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in (16 max)
+
+
+Doe Only Hunting Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Doe Only Hunting Parent
+	
+TA AB03 (ARCHERY ONLY)
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Enviromental Recreation Parent
+	
+Fletchers Fork Creek
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+Lake Kyle
+	
+Open
+	
+Area
+	
+0 checked in (100 max)
+
+
+Enviromental Recreation Parent
+	
+Little West Fork Creek
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+Piney Fork Creek
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+ROV Course
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+Saline Creek
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 00A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 00B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 00C
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 00D
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 00HC
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 12
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 14A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 17
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 42A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 42B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 50
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Enviromental Recreation Parent
+	
+TA AB03
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Firewood Collection Parent
+	
+Lake Kyle
+	
+Open
+	
+Area
+	
+0 checked in
+
+
+Firewood Collection Parent
+	
+TA 00A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Firewood Collection Parent
+	
+TA 00B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Firewood Collection Parent
+	
+TA 00C
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Firewood Collection Parent
+	
+TA 00HC
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Firewood Collection Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in (6 max)
+
+
+Firewood Collection Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 12
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 14A
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 17
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in (28 max)
+
+
+Firewood Collection Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 42A
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 42B
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 50
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Firewood Collection Parent
+	
+TA AB03
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Fishing Parent
+	
+Cantonment Area
+	
+Open
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+Clarksville Base
+	
+Open
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+Fletchers Fork Creek
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+Lake Kyle
+	
+Open
+	
+Area
+	
+3 checked in
+
+
+Fishing Parent
+	
+Little West Fork Creek
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+Piney Fork Creek
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+Saline Creek
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Fishing Parent
+	
+TA35
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Fishing Parent
+	
+TA44B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+C1
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+C2
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+C3
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+C7
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 00A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 00B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 00C
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 00D
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 00HC
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 12
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 14A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 17
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 42A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 42B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 50
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Game Scouting Parent
+	
+TA AB03
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Handicap Area Parent
+	
+TA 00HC
+	
+Open
+	
+Area
+	
+1 checked in (2 max)
+
+
+Handicap Area Parent
+	
+TA 08AHC
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Handicap Area Parent
+	
+TA 12HC
+	
+Open
+	
+Area
+	
+0 checked in (3 max)
+
+
+Handicap Area Parent
+	
+TA 14HC
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Handicap Area Parent
+	
+TA 31HC
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 12
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 14A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 17
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 42A
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Predator Hunting Parent
+	
+TA 42B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Predator Hunting Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Predator Hunting Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 50
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Predator Hunting Parent
+	
+TA AB03
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Quail Hunting Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 08
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 12
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 14A
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 17
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 42A
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 42B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Quail Hunting Parent
+	
+TA AB03
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Raccoon Hunting Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 04
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 05
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 09A
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 09B
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 10
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 12
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 13
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 14A
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 17
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 19
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 21
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 22
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 24
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 26
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 27
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 28
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 30
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 31
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 33
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 34
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 35
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 40
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 42A
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 42B
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 43A
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 44A
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 50
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 51
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA 52
+	
+Open
+	
+Area
+	
+0 checked in (8 max)
+
+
+Raccoon Hunting Parent
+	
+TA AB03
+	
+Closed
+	
+Area
+	
+0 checked in (8 max)
+
+
+Small Game Hunting Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 12
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 14A
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 17
+	
+Open
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 28
+	
+Open
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 42A
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 42B
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 50
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Small Game Hunting Parent
+	
+TA AB03
+	
+Closed
+	
+Area
+	
+0 checked in (20 max)
+
+
+Turkey Hunting Parent
+	
+TA 00A - Archery Only
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Turkey Hunting Parent
+	
+TA 00B - Archery Only
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Turkey Hunting Parent
+	
+TA 00C - Archery Only
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Turkey Hunting Parent
+	
+TA 00D
+	
+Closed
+	
+Area
+	
+0 checked in (0 max)
+
+
+Turkey Hunting Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Turkey Hunting Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Turkey Hunting Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Turkey Hunting Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Turkey Hunting Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Turkey Hunting Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in (6 max)
+
+
+Turkey Hunting Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Turkey Hunting Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Turkey Hunting Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Turkey Hunting Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Turkey Hunting Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Turkey Hunting Parent
+	
+TA 14A
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Turkey Hunting Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Turkey Hunting Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Turkey Hunting Parent
+	
+TA 17
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Turkey Hunting Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Turkey Hunting Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in (6 max)
+
+
+Turkey Hunting Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Turkey Hunting Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Turkey Hunting Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Turkey Hunting Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Turkey Hunting Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Turkey Hunting Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Turkey Hunting Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Turkey Hunting Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (10 max)
+
+
+Turkey Hunting Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Turkey Hunting Parent
+	
+TA 40
+	
+Open
+	
+Area
+	
+0 checked in (4 max)
+
+
+Turkey Hunting Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Turkey Hunting Parent
+	
+TA 42A
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Turkey Hunting Parent
+	
+TA 42B
+	
+Closed
+	
+Area
+	
+0 checked in (0 max)
+
+
+Turkey Hunting Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Turkey Hunting Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Turkey Hunting Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Turkey Hunting Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Turkey Hunting Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Turkey Hunting Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in (6 max)
+
+
+Turkey Hunting Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 50
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Turkey Hunting Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Turkey Hunting Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in (6 max)
+
+
+Turkey Hunting Parent
+	
+TA AB03 (Archery Only)
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 31 - LAKE KYLE
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in
+
+
+Waterfowl Hunting Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Waterfowl Hunting Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Youth Hunt Parent
+	
+ADMIN TESTING ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 00B - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 00C - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 00D
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Youth Hunt Parent
+	
+TA 01
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 02
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 03
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 04
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 05
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 06
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Youth Hunt Parent
+	
+TA 07
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 08A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 08B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Youth Hunt Parent
+	
+TA 09A
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Youth Hunt Parent
+	
+TA 09B
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 10
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 11
+	
+Closed
+	
+Area
+	
+0 checked in (13 max)
+
+
+Youth Hunt Parent
+	
+TA 12
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Youth Hunt Parent
+	
+TA 13
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 14
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 14A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 15
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 16
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 17
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 18
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Youth Hunt Parent
+	
+TA 19
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Youth Hunt Parent
+	
+TA 20
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Youth Hunt Parent
+	
+TA 21
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Youth Hunt Parent
+	
+TA 22
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 23
+	
+Closed
+	
+Area
+	
+0 checked in (16 max)
+
+
+Youth Hunt Parent
+	
+TA 24
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 25
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Youth Hunt Parent
+	
+TA 26
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 27
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 28
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 30
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Youth Hunt Parent
+	
+TA 31
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Youth Hunt Parent
+	
+TA 32
+	
+Closed
+	
+Area
+	
+0 checked in (16 max)
+
+
+Youth Hunt Parent
+	
+TA 33
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 34
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 35
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Youth Hunt Parent
+	
+TA 40
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 41
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 42A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 43A
+	
+Closed
+	
+Area
+	
+0 checked in (2 max)
+
+
+Youth Hunt Parent
+	
+TA 43B
+	
+Closed
+	
+Area
+	
+0 checked in (1 max)
+
+
+Youth Hunt Parent
+	
+TA 44A
+	
+Closed
+	
+Area
+	
+0 checked in (5 max)
+
+
+Youth Hunt Parent
+	
+TA 44B
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 46
+	
+Closed
+	
+Area
+	
+0 checked in (7 max)
+
+
+Youth Hunt Parent
+	
+TA 47
+	
+Closed
+	
+Area
+	
+0 checked in (4 max)
+
+
+Youth Hunt Parent
+	
+TA 48
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 49
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 50
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 51
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA 52
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+Youth Hunt Parent
+	
+TA AB03 - ARCHERY ONLY
+	
+Closed
+	
+Area
+	
+0 checked in (3 max)
+
+
+
+
+
+Powered by XScientia ©
+
+Terms & Conditions
+
+iSportsman, LLC is not responsible for the content on this website
