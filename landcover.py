@@ -70,12 +70,13 @@ def pick_coverage():
     caps = requests.get(WCS, params={"service": "WCS", "version": "2.0.1", "request": "GetCapabilities"}, timeout=120).text
     ids = re.findall(r"<wcs:CoverageId>([^<]+)</wcs:CoverageId>", caps)
     land = [c for c in ids if re.search(r"(LndCov|Land_Cover)", c, re.I) and re.search(r"(L48|CU|CONUS)", c, re.I)
-            and not re.search(r"(Change|Conf|Fct|Index|Science|Imperv|Canopy|SpcChg|Disturb)", c, re.I)]
+            and not re.search(r"(Smy|Chg|Change|Conf|Fct|Index|Science|Imperv|Canopy|Disturb)", c, re.I)]
     def year(c):
         m = re.findall(r"(19|20)(\d\d)", c)
         return int(m[-1][0] + m[-1][1]) if m else 0
     land.sort(key=year)
-    print(f"{len(ids)} coverages offered; land-cover candidates (oldest→newest): {land[-6:]}")
+    print(f"{len(ids)} coverages offered; land-cover candidates (oldest→newest): {land[-8:]}")
+    print("annual:", [c for c in ids if "LndCov" in c][:40])
     if not land:
         sys.exit("No NLCD land-cover coverage found in the WCS capabilities.")
     return land[-1], year(land[-1])
@@ -92,7 +93,7 @@ def fetch_nlcd(cov, X, Y):
     if r.status_code != 200 or not r.content[:4] in (b"II*\x00", b"MM\x00*"):
         sys.exit(f"NLCD download failed ({r.status_code}): {r.text[:400]}")
     with rasterio.open(io.BytesIO(r.content)) as src:
-        arr = src.read(1)
+        arr = np.asarray(src.read(1))
         rows, cols = rasterio.transform.rowcol(src.transform, ax.ravel(), ay.ravel())
         print(f"NLCD tile {arr.shape} in {src.crs}, resolution {src.res}")
     rows, cols = np.asarray(rows).reshape(ax.shape), np.asarray(cols).reshape(ax.shape)
