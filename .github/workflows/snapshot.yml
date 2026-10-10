@@ -1,0 +1,38 @@
+name: Pressure snapshot
+
+on:
+  schedule:
+    # ~7:45 AM and ~4:45 PM Central, Sep–Jan. Cron is UTC, so each time is listed for
+    # both daylight (CDT) and standard (CST) time; the script keeps whichever lands on 7 or 16 local.
+    - cron: "45 12,13,21,22 * 9-12,1 *"
+  workflow_dispatch: {}   # "Run workflow" button for a manual test
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright
+        run: |
+          pip install playwright==1.47.0
+          python -m playwright install --with-deps chromium
+
+      - name: Take snapshot
+        run: python scrape.py
+
+      - name: Commit data
+        run: |
+          git config user.name "pressure-bot"
+          git config user.email "pressure-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Snapshot $(TZ=America/Chicago date '+%Y-%m-%d %H:%M')"
+          git push
