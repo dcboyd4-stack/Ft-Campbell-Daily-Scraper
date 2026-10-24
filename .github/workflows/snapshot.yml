@@ -16,7 +16,7 @@ permissions:
 jobs:
   snapshot:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
@@ -25,9 +25,14 @@ jobs:
           python-version: "3.12"
 
       - name: Install Playwright
+        # The browser install occasionally hangs on GitHub's runners; cap each try at 3 minutes and retry.
         run: |
           pip install playwright==1.47.0
-          python -m playwright install --with-deps chromium
+          for i in 1 2 3; do
+            timeout 180 python -m playwright install --with-deps chromium && exit 0
+            echo "Install attempt $i hung or failed; retrying."
+          done
+          exit 1
 
       - name: Take snapshot
         run: python scrape.py
