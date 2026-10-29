@@ -967,7 +967,7 @@ Open
 	
 Area
 	
-1 checked in (5 max)
+2 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -978,7 +978,7 @@ Open
 	
 Area
 	
-2 checked in (5 max)
+5 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -989,7 +989,7 @@ Open
 	
 Area
 	
-2 checked in (3 max)
+3 checked in (3 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1066,7 +1066,7 @@ Open
 	
 Area
 	
-16 checked in (17 max)
+17 checked in (17 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1110,7 +1110,7 @@ Open
 	
 Area
 	
-29 checked in (41 max)
+20 checked in (41 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1132,7 +1132,7 @@ Open
 	
 Area
 	
-32 checked in (47 max)
+29 checked in (47 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1539,7 +1539,7 @@ Open
 	
 Area
 	
-5 checked in (23 max)
+6 checked in (23 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1561,7 +1561,7 @@ Open
 	
 Area
 	
-9 checked in (10 max)
+8 checked in (10 max)
 
 
 Deer Hunting Parent
@@ -4080,7 +4080,7 @@ Open
 	
 Area
 	
-1 checked in
+2 checked in
 
 
 Fishing Parent
@@ -5015,7 +5015,7 @@ Open
 	
 Area
 	
-1 checked in (3 max)
+2 checked in (3 max)
 
 
 Handicap Area Parent
