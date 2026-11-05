@@ -6,19 +6,19 @@ NOTICE: AREAS DISPLAYING RED ON THE INTERACTIVE MAP OR AREA STATUS LIST ARE CLOS
 
 This policy is set by the installation for the safety of both military and recreational activities.
 
-Wednesday, November 04
+Thursday, November 05
 
 
-AREA STATUS FOR TODAY 11-04-26
+AREA STATUS FOR TODAY 11-05-26
  PRINT
 Date
-Today 11-04-26
-Tomorrow 11-05-26
-Friday 11-06-26
+Today 11-05-26
+Tomorrow 11-06-26
 Saturday 11-07-26
 Sunday 11-08-26
 Monday 11-09-26
 Tuesday 11-10-26
+Wednesday 11-11-26
 Status
 Open
 Closed
@@ -47,7 +47,6 @@ A15
 A14
 A16
 A4
-ADMIN TESTING ONLY
 C1
 C1
 C10
@@ -81,6 +80,7 @@ TA 00A
 TA 00A
 TA 00A
 TA 00A (ARCHERY)
+TA 00A - ARCHERY ONLY
 TA 00A - ARCHERY ONLY
 TA 00A - Archery Only
 TA 00B
@@ -765,7 +765,7 @@ TA AB03
 TA AB03 (ARCHERY ONLY)
 TA AB03 (ARCHERY)
 TA AB03 (Archery Only)
-TA AB03 (Archery)
+TA AB03 (do not use)
 TA AB03 - ARCHERY ONLY
 TA35
 TA44B
@@ -963,33 +963,33 @@ Deer Hunting - Archery Only Parent
 	
 TA 00A (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (5 max)
+5 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
 	
 TA 00B (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (5 max)
+2 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
 	
 TA 00C (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (3 max)
+2 checked in (3 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1007,11 +1007,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 01 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (15 max)
+10 checked in (15 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1062,11 +1062,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 06 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (17 max)
+14 checked in (17 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1084,22 +1084,22 @@ Deer Hunting - Archery Only Parent
 	
 TA 08A (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (4 max)
+4 checked in (4 max)
 
 
 Deer Hunting - Archery Only Parent
 	
 TA 08B (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (4 max)
+4 checked in (4 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1381,11 +1381,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 34 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (31 max)
+18 checked in (31 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1535,33 +1535,33 @@ Deer Hunting - Archery Only Parent
 	
 TA 51 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (23 max)
+19 checked in (23 max)
 
 
 Deer Hunting - Archery Only Parent
 	
 TA 52 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (31 max)
+27 checked in (31 max)
 
 
 Deer Hunting - Archery Only Parent
 	
 TA AB03 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (10 max)
+8 checked in (10 max)
 
 
 Deer Hunting Parent
@@ -1627,7 +1627,7 @@ Closed
 	
 Area
 	
-0 checked in (17 max)
+0 checked in (12 max)
 
 
 Deer Hunting Parent
@@ -2105,7 +2105,7 @@ Area
 
 Deer Hunting Parent
 	
-TA AB03 (Archery)
+TA AB03 (do not use)
 	
 Closed
 	
@@ -4989,22 +4989,22 @@ Handicap Area Parent
 	
 TA 00HC
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (2 max)
+2 checked in (2 max)
 
 
 Handicap Area Parent
 	
 TA 08AHC
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (2 max)
+2 checked in (2 max)
 
 
 Handicap Area Parent
@@ -6199,7 +6199,7 @@ Raccoon Hunting Parent
 	
 TA 01
 	
-Closed
+Open
 	
 Area
 	
@@ -6254,7 +6254,7 @@ Raccoon Hunting Parent
 	
 TA 06
 	
-Closed
+Open
 	
 Area
 	
@@ -6276,7 +6276,7 @@ Raccoon Hunting Parent
 	
 TA 08A
 	
-Closed
+Open
 	
 Area
 	
@@ -6287,7 +6287,7 @@ Raccoon Hunting Parent
 	
 TA 08B
 	
-Closed
+Open
 	
 Area
 	
@@ -6584,7 +6584,7 @@ Raccoon Hunting Parent
 	
 TA 34
 	
-Closed
+Open
 	
 Area
 	
@@ -6749,7 +6749,7 @@ Raccoon Hunting Parent
 	
 TA 51
 	
-Closed
+Open
 	
 Area
 	
@@ -6760,7 +6760,7 @@ Raccoon Hunting Parent
 	
 TA 52
 	
-Closed
+Open
 	
 Area
 	
@@ -6771,7 +6771,7 @@ Raccoon Hunting Parent
 	
 TA AB03
 	
-Closed
+Open
 	
 Area
 	
@@ -8166,7 +8166,7 @@ Area
 
 Youth Hunt Parent
 	
-ADMIN TESTING ONLY
+TA 00A - ARCHERY ONLY
 	
 Closed
 	
@@ -8216,7 +8216,7 @@ Closed
 	
 Area
 	
-0 checked in (2 max)
+0 checked in (5 max)
 
 
 Youth Hunt Parent
@@ -8227,7 +8227,7 @@ Closed
 	
 Area
 	
-0 checked in (4 max)
+0 checked in (8 max)
 
 
 Youth Hunt Parent
@@ -8238,7 +8238,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (4 max)
 
 
 Youth Hunt Parent
@@ -8249,7 +8249,7 @@ Closed
 	
 Area
 	
-0 checked in (4 max)
+0 checked in (9 max)
 
 
 Youth Hunt Parent
@@ -8271,7 +8271,7 @@ Closed
 	
 Area
 	
-0 checked in (7 max)
+0 checked in (6 max)
 
 
 Youth Hunt Parent
@@ -8282,7 +8282,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (5 max)
 
 
 Youth Hunt Parent
@@ -8315,7 +8315,7 @@ Closed
 	
 Area
 	
-0 checked in (5 max)
+0 checked in (10 max)
 
 
 Youth Hunt Parent
@@ -8326,7 +8326,7 @@ Closed
 	
 Area
 	
-0 checked in (4 max)
+0 checked in (7 max)
 
 
 Youth Hunt Parent
@@ -8337,7 +8337,7 @@ Closed
 	
 Area
 	
-0 checked in (4 max)
+0 checked in (10 max)
 
 
 Youth Hunt Parent
@@ -8348,7 +8348,7 @@ Closed
 	
 Area
 	
-0 checked in (13 max)
+0 checked in (10 max)
 
 
 Youth Hunt Parent
@@ -8359,7 +8359,7 @@ Closed
 	
 Area
 	
-0 checked in (1 max)
+0 checked in (2 max)
 
 
 Youth Hunt Parent
@@ -8370,7 +8370,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (5 max)
 
 
 Youth Hunt Parent
@@ -8392,7 +8392,7 @@ Closed
 	
 Area
 	
-0 checked in (2 max)
+0 checked in (6 max)
 
 
 Youth Hunt Parent
@@ -8403,7 +8403,7 @@ Closed
 	
 Area
 	
-0 checked in (2 max)
+0 checked in (3 max)
 
 
 Youth Hunt Parent
@@ -8414,7 +8414,7 @@ Closed
 	
 Area
 	
-0 checked in (2 max)
+0 checked in (4 max)
 
 
 Youth Hunt Parent
@@ -8425,7 +8425,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (8 max)
 
 
 Youth Hunt Parent
@@ -8436,7 +8436,7 @@ Closed
 	
 Area
 	
-0 checked in (1 max)
+0 checked in (2 max)
 
 
 Youth Hunt Parent
@@ -8447,7 +8447,7 @@ Closed
 	
 Area
 	
-0 checked in (5 max)
+0 checked in (10 max)
 
 
 Youth Hunt Parent
@@ -8502,7 +8502,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (4 max)
 
 
 Youth Hunt Parent
@@ -8513,7 +8513,7 @@ Closed
 	
 Area
 	
-0 checked in (5 max)
+0 checked in (10 max)
 
 
 Youth Hunt Parent
@@ -8524,7 +8524,7 @@ Closed
 	
 Area
 	
-0 checked in (4 max)
+0 checked in (7 max)
 
 
 Youth Hunt Parent
@@ -8546,7 +8546,7 @@ Closed
 	
 Area
 	
-0 checked in (2 max)
+0 checked in (4 max)
 
 
 Youth Hunt Parent
@@ -8590,7 +8590,7 @@ Closed
 	
 Area
 	
-0 checked in (4 max)
+0 checked in (9 max)
 
 
 Youth Hunt Parent
@@ -8601,7 +8601,7 @@ Closed
 	
 Area
 	
-0 checked in (4 max)
+0 checked in (10 max)
 
 
 Youth Hunt Parent
@@ -8623,7 +8623,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (5 max)
 
 
 Youth Hunt Parent
@@ -8678,7 +8678,7 @@ Closed
 	
 Area
 	
-0 checked in (5 max)
+0 checked in (14 max)
 
 
 Youth Hunt Parent
@@ -8722,7 +8722,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (4 max)
 
 
 Youth Hunt Parent
@@ -8733,7 +8733,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (15 max)
 
 
 Youth Hunt Parent
@@ -8744,7 +8744,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (15 max)
 
 
 Youth Hunt Parent
@@ -8755,7 +8755,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (8 max)
 
 
 Youth Hunt Parent
@@ -8766,7 +8766,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (5 max)
 
 
 Youth Hunt Parent
@@ -8777,7 +8777,7 @@ Closed
 	
 Area
 	
-0 checked in (3 max)
+0 checked in (5 max)
 
 
 
