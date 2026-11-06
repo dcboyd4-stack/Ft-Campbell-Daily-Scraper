@@ -6,19 +6,19 @@ NOTICE: AREAS DISPLAYING RED ON THE INTERACTIVE MAP OR AREA STATUS LIST ARE CLOS
 
 This policy is set by the installation for the safety of both military and recreational activities.
 
-Thursday, November 05
+Friday, November 06
 
 
-AREA STATUS FOR TODAY 11-05-26
+AREA STATUS FOR TODAY 11-06-26
  PRINT
 Date
-Today 11-05-26
-Tomorrow 11-06-26
-Saturday 11-07-26
+Today 11-06-26
+Tomorrow 11-07-26
 Sunday 11-08-26
 Monday 11-09-26
 Tuesday 11-10-26
 Wednesday 11-11-26
+Thursday 11-12-26
 Status
 Open
 Closed
@@ -978,7 +978,7 @@ Open
 	
 Area
 	
-4 checked in (5 max)
+5 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -989,7 +989,7 @@ Open
 	
 Area
 	
-2 checked in (3 max)
+3 checked in (3 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1011,7 +1011,7 @@ Open
 	
 Area
 	
-14 checked in (15 max)
+13 checked in (15 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1051,11 +1051,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 05 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (11 max)
+10 checked in (11 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1066,7 +1066,7 @@ Open
 	
 Area
 	
-16 checked in (17 max)
+17 checked in (17 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1088,7 +1088,7 @@ Open
 	
 Area
 	
-3 checked in (4 max)
+4 checked in (4 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1099,18 +1099,18 @@ Open
 	
 Area
 	
-4 checked in (4 max)
+3 checked in (4 max)
 
 
 Deer Hunting - Archery Only Parent
 	
 TA 09A (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (41 max)
+34 checked in (41 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1128,11 +1128,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 10 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (47 max)
+36 checked in (47 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1282,11 +1282,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 24 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (14 max)
+12 checked in (14 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1539,7 +1539,7 @@ Open
 	
 Area
 	
-20 checked in (23 max)
+17 checked in (23 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1550,18 +1550,18 @@ Open
 	
 Area
 	
-26 checked in (31 max)
+14 checked in (31 max)
 
 
 Deer Hunting - Archery Only Parent
 	
 TA AB03 (ARCHERY)
 	
-Open
+Closed
 	
 Area
 	
-9 checked in (10 max)
+0 checked in (10 max)
 
 
 Deer Hunting Parent
@@ -1711,7 +1711,7 @@ Deer Hunting Parent
 	
 TA 12
 	
-Closed
+Open
 	
 Area
 	
@@ -4069,7 +4069,7 @@ Open
 	
 Area
 	
-0 checked in
+1 checked in
 
 
 Fishing Parent
@@ -4080,7 +4080,7 @@ Open
 	
 Area
 	
-1 checked in
+2 checked in
 
 
 Fishing Parent
@@ -5004,14 +5004,14 @@ Open
 	
 Area
 	
-2 checked in (2 max)
+1 checked in (2 max)
 
 
 Handicap Area Parent
 	
 TA 12HC
 	
-Closed
+Open
 	
 Area
 	
@@ -6243,7 +6243,7 @@ Raccoon Hunting Parent
 	
 TA 05
 	
-Closed
+Open
 	
 Area
 	
@@ -6298,7 +6298,7 @@ Raccoon Hunting Parent
 	
 TA 09A
 	
-Closed
+Open
 	
 Area
 	
@@ -6320,7 +6320,7 @@ Raccoon Hunting Parent
 	
 TA 10
 	
-Closed
+Open
 	
 Area
 	
@@ -6342,7 +6342,7 @@ Raccoon Hunting Parent
 	
 TA 12
 	
-Closed
+Open
 	
 Area
 	
@@ -6485,7 +6485,7 @@ Raccoon Hunting Parent
 	
 TA 24
 	
-Closed
+Open
 	
 Area
 	
@@ -6771,7 +6771,7 @@ Raccoon Hunting Parent
 	
 TA AB03
 	
-Open
+Closed
 	
 Area
 	
