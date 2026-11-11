@@ -6,19 +6,19 @@ NOTICE: AREAS DISPLAYING RED ON THE INTERACTIVE MAP OR AREA STATUS LIST ARE CLOS
 
 This policy is set by the installation for the safety of both military and recreational activities.
 
-Tuesday, November 10
+Wednesday, November 11
 
 
-AREA STATUS FOR TODAY 11-10-26
+AREA STATUS FOR TODAY 11-11-26
  PRINT
 Date
-Today 11-10-26
-Tomorrow 11-11-26
-Thursday 11-12-26
+Today 11-11-26
+Tomorrow 11-12-26
 Friday 11-13-26
 Saturday 11-14-26
 Sunday 11-15-26
 Monday 11-16-26
+Tuesday 11-17-26
 Status
 Open
 Closed
@@ -2771,7 +2771,7 @@ Open
 	
 Area
 	
-0 checked in
+1 checked in
 
 
 Enviromental Recreation Parent
@@ -4080,7 +4080,7 @@ Open
 	
 Area
 	
-1 checked in
+0 checked in
 
 
 Fishing Parent
