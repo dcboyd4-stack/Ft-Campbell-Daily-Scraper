@@ -119,8 +119,8 @@ TA 01
 TA 01
 TA 01
 TA 01
+TA 01
 TA 01 (ARCHERY)
-TA 01 - ARCHERY ONLY
 TA 02
 TA 02
 TA 02
@@ -967,7 +967,7 @@ Open
 	
 Area
 	
-1 checked in (5 max)
+4 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -978,7 +978,7 @@ Open
 	
 Area
 	
-2 checked in (5 max)
+3 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -989,7 +989,7 @@ Open
 	
 Area
 	
-2 checked in (3 max)
+3 checked in (3 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1748,7 +1748,7 @@ Open
 	
 Area
 	
-3 checked in (5 max)
+5 checked in (5 max)
 
 
 Deer Hunting Parent
@@ -2078,7 +2078,7 @@ Open
 	
 Area
 	
-21 checked in (31 max)
+22 checked in (31 max)
 
 
 Deer Hunting Parent
@@ -2100,7 +2100,7 @@ Open
 	
 Area
 	
-5 checked in (10 max)
+7 checked in (10 max)
 
 
 Deer Hunting Parent
@@ -2160,7 +2160,7 @@ Area
 
 Doe Only Hunting Parent
 	
-TA 01 - ARCHERY ONLY
+TA 01
 	
 Closed
 	
@@ -2771,7 +2771,7 @@ Open
 	
 Area
 	
-0 checked in
+2 checked in
 
 
 Enviromental Recreation Parent
