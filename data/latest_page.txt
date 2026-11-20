@@ -6,19 +6,19 @@ NOTICE: AREAS DISPLAYING RED ON THE INTERACTIVE MAP OR AREA STATUS LIST ARE CLOS
 
 This policy is set by the installation for the safety of both military and recreational activities.
 
-Thursday, November 19
+Friday, November 20
 
 
-AREA STATUS FOR TODAY 11-19-26
+AREA STATUS FOR TODAY 11-20-26
  PRINT
 Date
-Today 11-19-26
-Tomorrow 11-20-26
-Saturday 11-21-26
+Today 11-20-26
+Tomorrow 11-21-26
 Sunday 11-22-26
 Monday 11-23-26
 Tuesday 11-24-26
 Wednesday 11-25-26
+Thursday 11-26-26
 Status
 Open
 Closed
@@ -978,7 +978,7 @@ Open
 	
 Area
 	
-3 checked in (5 max)
+4 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1183,11 +1183,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 15 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (5 max)
+4 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1561,7 +1561,7 @@ Open
 	
 Area
 	
-7 checked in (10 max)
+9 checked in (10 max)
 
 
 Deer Hunting Parent
@@ -1744,22 +1744,22 @@ Deer Hunting Parent
 	
 TA 15
 	
-Open
+Closed
 	
 Area
 	
-5 checked in (5 max)
+0 checked in (5 max)
 
 
 Deer Hunting Parent
 	
 TA 16
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (8 max)
+4 checked in (8 max)
 
 
 Deer Hunting Parent
@@ -2089,7 +2089,7 @@ Open
 	
 Area
 	
-13 checked in (16 max)
+14 checked in (16 max)
 
 
 Deer Hunting Parent
@@ -2100,7 +2100,7 @@ Open
 	
 Area
 	
-7 checked in (10 max)
+5 checked in (10 max)
 
 
 Deer Hunting Parent
@@ -2771,7 +2771,7 @@ Open
 	
 Area
 	
-2 checked in
+0 checked in
 
 
 Enviromental Recreation Parent
@@ -6397,7 +6397,7 @@ Raccoon Hunting Parent
 	
 TA 16
 	
-Closed
+Open
 	
 Area
 	
