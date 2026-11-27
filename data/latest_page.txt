@@ -6,19 +6,19 @@ NOTICE: AREAS DISPLAYING RED ON THE INTERACTIVE MAP OR AREA STATUS LIST ARE CLOS
 
 This policy is set by the installation for the safety of both military and recreational activities.
 
-Thursday, November 26
+Friday, November 27
 
 
-AREA STATUS FOR TODAY 11-26-26
+AREA STATUS FOR TODAY 11-27-26
  PRINT
 Date
-Today 11-26-26
-Tomorrow 11-27-26
-Saturday 11-28-26
+Today 11-27-26
+Tomorrow 11-28-26
 Sunday 11-29-26
 Monday 11-30-26
 Tuesday 12-01-26
 Wednesday 12-02-26
+Thursday 12-03-26
 Status
 Open
 Closed
@@ -787,7 +787,7 @@ Cantonment Area Parent
 	
 A11
 	
-Closed
+Open
 	
 Area
 	
@@ -798,7 +798,7 @@ Cantonment Area Parent
 	
 A15
 	
-Closed
+Open
 	
 Area
 	
@@ -809,51 +809,51 @@ Cantonment Area Parent
 	
 A14
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (1 max)
+1 checked in (1 max)
 
 
 Cantonment Area Parent
 	
 A16
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (1 max)
+1 checked in (1 max)
 
 
 Cantonment Area Parent
 	
 A4
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (4 max)
+1 checked in (4 max)
 
 
 Cantonment Area Parent
 	
 C1
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (4 max)
+3 checked in (4 max)
 
 
 Cantonment Area Parent
 	
 C10
 	
-Closed
+Open
 	
 Area
 	
@@ -864,51 +864,51 @@ Cantonment Area Parent
 	
 C11
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (3 max)
+3 checked in (3 max)
 
 
 Cantonment Area Parent
 	
 C2
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (4 max)
+4 checked in (4 max)
 
 
 Cantonment Area Parent
 	
 C3
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (1 max)
+1 checked in (1 max)
 
 
 Cantonment Area Parent
 	
 C4
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (1 max)
+1 checked in (1 max)
 
 
 Cantonment Area Parent
 	
 C5
 	
-Closed
+Open
 	
 Area
 	
@@ -919,7 +919,7 @@ Cantonment Area Parent
 	
 C6
 	
-Closed
+Open
 	
 Area
 	
@@ -930,7 +930,7 @@ Cantonment Area Parent
 	
 C7
 	
-Closed
+Open
 	
 Area
 	
@@ -941,18 +941,18 @@ Cantonment Area Parent
 	
 C8
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (2 max)
+1 checked in (2 max)
 
 
 Cantonment Area Parent
 	
 C9
 	
-Closed
+Open
 	
 Area
 	
@@ -963,33 +963,33 @@ Deer Hunting - Archery Only Parent
 	
 TA 00A (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (5 max)
+3 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
 	
 TA 00B (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (5 max)
+5 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
 	
 TA 00C (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (3 max)
+1 checked in (3 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1073,11 +1073,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 07 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (10 max)
+7 checked in (10 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1095,11 +1095,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 08B (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (4 max)
+2 checked in (4 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1183,11 +1183,11 @@ Deer Hunting - Archery Only Parent
 	
 TA 15 (ARCHERY)
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (5 max)
+3 checked in (5 max)
 
 
 Deer Hunting - Archery Only Parent
@@ -1645,11 +1645,11 @@ Deer Hunting Parent
 	
 TA 08A
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (3 max)
+2 checked in (3 max)
 
 
 Deer Hunting Parent
@@ -1700,11 +1700,11 @@ Deer Hunting Parent
 	
 TA 11
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (26 max)
+18 checked in (26 max)
 
 
 Deer Hunting Parent
@@ -1755,11 +1755,11 @@ Deer Hunting Parent
 	
 TA 16
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (8 max)
+8 checked in (8 max)
 
 
 Deer Hunting Parent
@@ -1799,11 +1799,11 @@ Deer Hunting Parent
 	
 TA 20
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (37 max)
+35 checked in (37 max)
 
 
 Deer Hunting Parent
@@ -1832,11 +1832,11 @@ Deer Hunting Parent
 	
 TA 23
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (31 max)
+29 checked in (31 max)
 
 
 Deer Hunting Parent
@@ -1854,11 +1854,11 @@ Deer Hunting Parent
 	
 TA 25
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (21 max)
+18 checked in (21 max)
 
 
 Deer Hunting Parent
@@ -1876,11 +1876,11 @@ Deer Hunting Parent
 	
 TA 27
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (7 max)
+6 checked in (7 max)
 
 
 Deer Hunting Parent
@@ -1920,11 +1920,11 @@ Deer Hunting Parent
 	
 TA 32
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (32 max)
+29 checked in (32 max)
 
 
 Deer Hunting Parent
@@ -2096,11 +2096,11 @@ Deer Hunting Parent
 	
 TA 52
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (10 max)
+8 checked in (10 max)
 
 
 Deer Hunting Parent
@@ -2162,11 +2162,11 @@ Doe Only Hunting Parent
 	
 TA 01
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (15 max)
+6 checked in (15 max)
 
 
 Doe Only Hunting Parent
@@ -2217,11 +2217,11 @@ Doe Only Hunting Parent
 	
 TA 06
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (12 max)
+7 checked in (12 max)
 
 
 Doe Only Hunting Parent
@@ -2437,11 +2437,11 @@ Doe Only Hunting Parent
 	
 TA 24
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (8 max)
+6 checked in (8 max)
 
 
 Doe Only Hunting Parent
@@ -2481,11 +2481,11 @@ Doe Only Hunting Parent
 	
 TA 28
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (9 max)
+5 checked in (9 max)
 
 
 Doe Only Hunting Parent
@@ -2525,11 +2525,11 @@ Doe Only Hunting Parent
 	
 TA 33
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (18 max)
+7 checked in (18 max)
 
 
 Doe Only Hunting Parent
@@ -2734,7 +2734,7 @@ Enviromental Recreation Parent
 	
 Lake Kyle
 	
-Closed
+Open
 	
 Area
 	
@@ -2767,7 +2767,7 @@ Enviromental Recreation Parent
 	
 ROV Course
 	
-Open
+Closed
 	
 Area
 	
@@ -3427,7 +3427,7 @@ Firewood Collection Parent
 	
 Lake Kyle
 	
-Closed
+Open
 	
 Area
 	
@@ -4065,7 +4065,7 @@ Fishing Parent
 	
 Cantonment Area
 	
-Closed
+Open
 	
 Area
 	
@@ -4076,7 +4076,7 @@ Fishing Parent
 	
 Clarksville Base
 	
-Closed
+Open
 	
 Area
 	
@@ -4098,7 +4098,7 @@ Fishing Parent
 	
 Lake Kyle
 	
-Closed
+Open
 	
 Area
 	
@@ -4989,33 +4989,33 @@ Handicap Area Parent
 	
 TA 00HC
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (2 max)
+1 checked in (2 max)
 
 
 Handicap Area Parent
 	
 TA 08AHC
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (2 max)
+2 checked in (2 max)
 
 
 Handicap Area Parent
 	
 TA 12HC
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (3 max)
+3 checked in (3 max)
 
 
 Handicap Area Parent
@@ -5583,7 +5583,7 @@ Predator Hunting Parent
 	
 TA 50
 	
-Closed
+Open
 	
 Area
 	
@@ -5594,7 +5594,7 @@ Predator Hunting Parent
 	
 TA 51
 	
-Closed
+Open
 	
 Area
 	
@@ -6199,7 +6199,7 @@ Raccoon Hunting Parent
 	
 TA 01
 	
-Closed
+Open
 	
 Area
 	
@@ -6232,7 +6232,7 @@ Raccoon Hunting Parent
 	
 TA 04
 	
-Closed
+Open
 	
 Area
 	
@@ -6243,7 +6243,7 @@ Raccoon Hunting Parent
 	
 TA 05
 	
-Closed
+Open
 	
 Area
 	
@@ -6254,7 +6254,7 @@ Raccoon Hunting Parent
 	
 TA 06
 	
-Closed
+Open
 	
 Area
 	
@@ -6265,7 +6265,7 @@ Raccoon Hunting Parent
 	
 TA 07
 	
-Closed
+Open
 	
 Area
 	
@@ -6276,7 +6276,7 @@ Raccoon Hunting Parent
 	
 TA 08A
 	
-Closed
+Open
 	
 Area
 	
@@ -6287,7 +6287,7 @@ Raccoon Hunting Parent
 	
 TA 08B
 	
-Closed
+Open
 	
 Area
 	
@@ -6309,7 +6309,7 @@ Raccoon Hunting Parent
 	
 TA 09B
 	
-Closed
+Open
 	
 Area
 	
@@ -6331,7 +6331,7 @@ Raccoon Hunting Parent
 	
 TA 11
 	
-Closed
+Open
 	
 Area
 	
@@ -6342,7 +6342,7 @@ Raccoon Hunting Parent
 	
 TA 12
 	
-Closed
+Open
 	
 Area
 	
@@ -6386,7 +6386,7 @@ Raccoon Hunting Parent
 	
 TA 15
 	
-Closed
+Open
 	
 Area
 	
@@ -6397,7 +6397,7 @@ Raccoon Hunting Parent
 	
 TA 16
 	
-Closed
+Open
 	
 Area
 	
@@ -6441,7 +6441,7 @@ Raccoon Hunting Parent
 	
 TA 20
 	
-Closed
+Open
 	
 Area
 	
@@ -6474,7 +6474,7 @@ Raccoon Hunting Parent
 	
 TA 23
 	
-Closed
+Open
 	
 Area
 	
@@ -6485,7 +6485,7 @@ Raccoon Hunting Parent
 	
 TA 24
 	
-Closed
+Open
 	
 Area
 	
@@ -6496,7 +6496,7 @@ Raccoon Hunting Parent
 	
 TA 25
 	
-Closed
+Open
 	
 Area
 	
@@ -6507,7 +6507,7 @@ Raccoon Hunting Parent
 	
 TA 26
 	
-Closed
+Open
 	
 Area
 	
@@ -6518,7 +6518,7 @@ Raccoon Hunting Parent
 	
 TA 27
 	
-Closed
+Open
 	
 Area
 	
@@ -6529,7 +6529,7 @@ Raccoon Hunting Parent
 	
 TA 28
 	
-Closed
+Open
 	
 Area
 	
@@ -6551,7 +6551,7 @@ Raccoon Hunting Parent
 	
 TA 31
 	
-Closed
+Open
 	
 Area
 	
@@ -6562,7 +6562,7 @@ Raccoon Hunting Parent
 	
 TA 32
 	
-Closed
+Open
 	
 Area
 	
@@ -6573,7 +6573,7 @@ Raccoon Hunting Parent
 	
 TA 33
 	
-Closed
+Open
 	
 Area
 	
@@ -6584,7 +6584,7 @@ Raccoon Hunting Parent
 	
 TA 34
 	
-Closed
+Open
 	
 Area
 	
@@ -6738,7 +6738,7 @@ Raccoon Hunting Parent
 	
 TA 50
 	
-Closed
+Open
 	
 Area
 	
@@ -6749,7 +6749,7 @@ Raccoon Hunting Parent
 	
 TA 51
 	
-Closed
+Open
 	
 Area
 	
@@ -6760,7 +6760,7 @@ Raccoon Hunting Parent
 	
 TA 52
 	
-Closed
+Open
 	
 Area
 	
@@ -6771,7 +6771,7 @@ Raccoon Hunting Parent
 	
 TA AB03
 	
-Closed
+Open
 	
 Area
 	
@@ -6815,7 +6815,7 @@ Small Game Hunting Parent
 	
 TA 04
 	
-Closed
+Open
 	
 Area
 	
@@ -6826,7 +6826,7 @@ Small Game Hunting Parent
 	
 TA 05
 	
-Closed
+Open
 	
 Area
 	
@@ -6892,7 +6892,7 @@ Small Game Hunting Parent
 	
 TA 09B
 	
-Closed
+Open
 	
 Area
 	
@@ -7090,7 +7090,7 @@ Small Game Hunting Parent
 	
 TA 26
 	
-Closed
+Open
 	
 Area
 	
@@ -7134,11 +7134,11 @@ Small Game Hunting Parent
 	
 TA 31
 	
-Closed
+Open
 	
 Area
 	
-0 checked in (20 max)
+1 checked in (20 max)
 
 
 Small Game Hunting Parent
@@ -7354,7 +7354,7 @@ Small Game Hunting Parent
 	
 TA AB03
 	
-Closed
+Open
 	
 Area
 	
